@@ -1,0 +1,16 @@
+{
+  "name": "weatherjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://appsius.github.io/weathery",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
